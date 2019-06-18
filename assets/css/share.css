@@ -1,0 +1,139 @@
+.second-row{
+	background: #47a3da;;
+	padding: 15px;
+}
+
+.navbar{
+	margin: 0px !important;
+}
+
+.second-row span{
+	color: white;
+}
+
+.second-row span:hover{
+	color: #02639d;
+	cursor: pointer !important;
+}
+
+.active{
+	color: #02639d !important;
+}
+/*#02639d*/
+
+.second-row span:nth-of-type(1){
+	font-size: 18px;
+	margin-left: 1%;
+	color: black;
+}
+
+.second-row span:nth-of-type(2){
+	font-size: 15px;
+	margin-left: 1%;
+	font-family: cursive;
+	cursor: pointer;
+}
+
+.second-row span:nth-of-type(3){
+	font-size: 15px;
+	margin-left: 1%;
+	font-family: cursive;
+	cursor: pointer;
+}
+
+.second-row span:nth-of-type(4){
+	font-size: 15px;
+	margin-left: 1%;
+	font-family: cursive;
+	cursor: pointer;
+}
+
+.second-row span:nth-of-type(5){
+	font-size: 15px;
+	margin-left: 1%;
+	font-family: cursive;
+	cursor: pointer;
+}
+
+.second-row span:nth-of-type(6){
+	font-size: 15px;
+	margin-left: 1%;
+	font-family: cursive;
+	cursor: pointer;
+}
+
+.main-panel{
+	margin-top: 2%;
+}
+
+.cust-row{
+	font-size: 18px;
+	margin-top: 15px;
+}
+
+.cust-row1{
+	font-size: 18px;
+	margin-top: 25px;
+}
+
+.main-panel input{
+	font-size: 15px;
+}
+
+.main-panel select{
+	font-size: 15px;
+}
+
+.body-row:hover{
+	background: grey !important;
+	cursor: pointer;
+}
+
+.panel-body:hover{
+	cursor: pointer !important;
+	background: lightgrey !important;
+}
+
+.fa{
+	padding: 5px !important;
+}
+
+.fa:hover{
+	cursor: pointer !important;
+	background: lightgrey !important;
+}
+
+.row-select{
+	background: lightgrey !important;
+}
+
+.row{
+	margin-left: 0px !important;
+	/*margin-left: 0px !important;*/
+}
+/*
+.panel{
+	height: 300px;
+	overflow-y: scroll;
+}*/
+
+.col-md-6 span{
+	font-size: 17px;
+}
+
+.navbar-inverse{
+	background-color: white;
+	border-color: white;
+}
+
+.container-fluid{
+	
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #47a3da !important;
+}
+
+h3{
+	color: #47a3da !important;
+}
